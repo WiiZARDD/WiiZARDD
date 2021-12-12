@@ -19,7 +19,7 @@
 
 <img src="https://thumbs.gfycat.com/AdmirableFlimsyDeermouse-size_restricted.gif" width="200"/>
 
-Current Project: <a href="https://github.com/WiiZARDD">Call of Duty: Modern Warfare 3 Spec Ops GSC</a>
+Recent Project: <a href="https://github.com/WiiZARDD/Marathon-Fortnite-Cheat-Fix-Leak">Marathon-Fortnite-Cheat-Fix-Leak</a>
 
 <p align="center">
   &nbsp;
@@ -40,7 +40,7 @@ Current Project: <a href="https://github.com/WiiZARDD">Call of Duty: Modern Warf
 </details>
 
 ```diff
-hello, i'm lucifer 🔮.
+hello, i'm lucifer 😈.
 
 @@Private RCE Bypass.@@
 + Custom HWID Spoofer
