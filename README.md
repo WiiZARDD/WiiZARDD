@@ -49,7 +49,10 @@ hello, i'm lucifer 😈.
 # 📖 Reverse engineering & Computer science
 # 📖 Bypassing VAC & EAC while shitting on servers with my amazing cheats
 ```
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiizard&" alt="wiizard" /></p>
+
+
 ----
 Credits: [LUCIFER](https://steamcommunity.com/id/gangrelatable)
 
-Last Edited on: 12/11/2021
+Last Edited on: 12/16/2021
