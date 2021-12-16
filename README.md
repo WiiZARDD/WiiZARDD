@@ -19,7 +19,7 @@
 
 <img src="https://thumbs.gfycat.com/AdmirableFlimsyDeermouse-size_restricted.gif" width="200"/>
 
-Recent Project: <a href="https://github.com/WiiZARDD/Marathon-Fortnite-Cheat-Fix-Leak">Marathon-Fortnite-Cheat-Fix-Leak</a>
+Recent Project: <a href="https://github.com/WiiZARDD/MW2-name-spoofer">MW2-name-spoofer</a>
 
 <p align="center">
   &nbsp;
@@ -56,3 +56,11 @@ hello, i'm lucifer 😈.
 Credits: [LUCIFER](https://steamcommunity.com/id/gangrelatable)
 
 Last Edited on: 12/16/2021
+
+<p align="center">
+Watch my contributions get eaten up by a snake! 🐍
+</p>
+
+<p align="center">
+  <img width="400" src="https://github.com/WiiZARDD/WiiZARDD/blob/output/github-contribution-grid-snake.svg" alt="Material Bread logo">
+</p>
