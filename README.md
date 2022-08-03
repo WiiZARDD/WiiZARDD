@@ -19,7 +19,7 @@
 
 <img src="https://thumbs.gfycat.com/AdmirableFlimsyDeermouse-size_restricted.gif" width="200"/>
 
-Recent Project: <a href="https://github.com/WiiZARDD/MW2-name-spoofer">MW2-name-spoofer</a>
+Recent Project: <a href="https://www.spigotmc.org/resources/glorious-boosters-factions-placeholderapi-support.104037/">Glorious Boosters</a>
 
 <p align="center">
   &nbsp;
