@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://bullywiihacks.forumotion.com/">WiiZARD</a></b>.
-    <br>I'm a 1337 Developer and Script Kitten / STEAM VAC BYPASS<br>
+    Welcome to my page insekt. I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://bullywiihacks.forumotion.com/">WiiZARD</a></b>.
+    <br>𝙍𝙚𝙩𝙞𝙧𝙚𝙙 𝙄𝙎𝙄𝙎 𝘿𝙧𝙞𝙡𝙡 𝙎𝙖𝙧𝙜𝙚𝙣𝙩 / 𝙏𝙧𝙤𝙡𝙡 𝙍𝙤𝙡𝙡𝙚𝙧 / 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣𝙖𝙡 𝙎𝙝𝙞𝙩𝙥𝙤𝙨𝙩𝙚𝙧<br>
 
 </samp>
 
@@ -40,14 +40,15 @@ Recent Project: <a href="https://github.com/WiiZARDD/WiZHUB">WiZHUB</a>
 </details>
 
 ```diff
-hello, i'm lucifer 😈.
+.ʇoɓɓɐɯ ǝɓɐd ʎɯ oʇ ǝɯoɔlǝʍ
+𝘤𝘰𝘯𝘴𝘪𝘥𝘦𝘳 𝘺𝘰𝘶𝘳𝘴𝘦𝘭𝘧 𝘳𝘦𝘵𝘢𝘳𝘥𝘦𝘥 𝘪𝘧 𝘺𝘰𝘶 𝘤𝘢𝘯'𝘵 𝘳𝘦𝘢𝘥
 
-@@Private RCE Bypass.@@
-+ Custom HWID Spoofer
-- JTAG/RGH Faggot
-! Software Engineer, Web Developer & Professional Shitposter
-# 📖 Reverse engineering & Computer science
-# 📖 Bypassing VAC & EAC while shitting on servers with my amazing cheats
+@@ssɐdʎᙠ ƎƆᴚ ǝʇɐʌıɹԀ@@
++ ɹǝɟoodS ᗡIMH pıoΛ +
+- H⅁ᴚ/⅁∀⊥ſ -
+! ɹǝʇsodʇıɥS lɐuoıssǝɟoɹԀ ⅋ ɹǝdolǝʌǝᗡ qǝM 'ɹǝǝuıɓuƎ ǝɹɐʍʇɟoS
+# 📖 ǝɔuǝıɔs ɹǝʇndɯoƆ ⅋ ɓuıɹǝǝuıɓuǝ ǝsɹǝʌǝᴚ
+# 📖 sʇɐǝɥɔ ɓuızɐɯɐ ʎɯ ɥʇıʍ sǝıʞuoɯ uo ɓuıʇʇıɥs ǝlıɥʍ Ɔ∀Ǝ ⅋ Ɔ∀Λ ɓuıssɐdʎᙠ
 ```
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiizard&" alt="wiizard" /></p>
 
@@ -58,7 +59,7 @@ Credits: [LUCIFER](https://steamcommunity.com/id/gangrelatable)
 Last Edited on: 12/16/2021
 
 <p align="center">
-Watch my contributions get eaten up by a snake! 🐍
+ᵂᵃᵗᶜʰ ᵐʸ ᶜᵒⁿᵗʳⁱᵇᵘᵗⁱᵒⁿˢ ᵍᵉᵗ ᵉᵃᵗᵉⁿ ᵘᵖ ᵇʸ ᵃ ˢⁿᵃᵏᵉ! 🐍
 </p>
 
 <p align="center">
