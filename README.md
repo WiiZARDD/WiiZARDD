@@ -1,5 +1,5 @@
 <p align="center">
-<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.moreleaks.com/">MORELEAKS - LEAK FORUM</a></b>
+<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://wiizardd.replit.app/">ABOUT ME</a></b>
 </p>
 
 
