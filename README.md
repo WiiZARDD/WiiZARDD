@@ -24,7 +24,7 @@
 
 <img src="https://thumbs.gfycat.com/AdmirableFlimsyDeermouse-size_restricted.gif" width="200"/>
 
-Recent Project: <a href="https://github.com/WiiZARDD/WiZHUB">WiZHUB</a>
+Recent Project: <a href="https://github.com/WiiZARDD/Domain-Checker-Python">Domain Checker Python</a>
 
 <p align="center">
   &nbsp;
