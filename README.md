@@ -37,5 +37,5 @@
 </details>
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiizard&" alt="wiizard" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiizardd&" alt="wiizard" />
 </p>
