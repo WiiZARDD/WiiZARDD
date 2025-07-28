@@ -3,7 +3,12 @@
 </p>
 
 <h1 align="center">WiiZARDD</h1>
-<p align="center">I am a passionate web developer specializing in HTML, CSS & JavaScript.<br>My plans are to transition into Full Stack (Front-End/Back-End) Development</p>
+<p align="center">
+  I am a creative builder and self taught developer passionate about bringing ideas to life through code.<br>
+  I specialize in HTML, CSS, and JavaScript, and I'm expanding into Full Stack Development with tools like Node.js, React, and SQL.<br>
+  My journey spans web design, scripting, automation, and digital projects that push boundaries.
+</p>
+
 
 <p align="center">
   <a href="https://github.com/WiiZARDD"><img src="https://komarev.com/ghpvc/?username=WiiZARDD&color=blue" alt="Profile Views" /></a>
@@ -14,45 +19,15 @@
 
 ## 🛠️ Languages & Tools
 
-<details>
-  <summary>HTML &amp; CSS</summary>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML5" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" alt="CSS3" />
-  </p>
-  - Built static pages with semantic structure  
-  <br>
-  - Styled layouts using Flexbox & Grid
-  <br>
-  - Implemented responsive designs
-</details>
-
-<details>
-  <summary>JavaScript</summary>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
-  </p>
-  - FakeNameGenerator: Web-based random name generator using HTML/CSS/JS & DOM
-  <br>
-  - JavaScriptBasics: JS fundamentals projects including a CLI name generator & DOM examples  
-</details>
-
-<details>
-  <summary>Python</summary>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" alt="Python" />
-  </p>
-  - pyShort: Command‑line based URL shortener
-</details>
+<details> <summary>HTML & CSS</summary> <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML5" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" alt="CSS3" /> </p> - Built full static websites using semantic HTML5 <br> - Designed and styled modern UIs with Flexbox, Grid, and responsive units (%, rem, vh/vw) <br> - Created animated buttons, custom gradients, hover effects, transitions <br> - Worked on mobile-first responsive layouts using media queries <br> - Developed reusable CSS components and layout structures <br> - Implemented glassmorphism, dark mode styling, and clean landing pages </details> <details> <summary>JavaScript</summary> <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" /> </p> - DOM manipulation: toggles, modals, navigation, dynamic inputs <br> - Built utility tools like FakeNameGenerator using HTML/CSS/JS <br> - Created client-side interactivity for login pages and landing sections <br> - Worked with events, forms, validation, loops, and local variables <br> - Structured projects for scalability and modular logic </details> <details> <summary>Python</summary> <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" alt="Python" /> </p> - Built command-line tools like `pyShort` (a URL shortener) <br> - Familiar with script-based automation and beginner-level data handling </details>
 
 ---
 
 ## Recent Projects
 
-- 🔗 [**FakeNameGenerator**](https://github.com/WiiZARDD/FakeNameGenerator) – Web-based random name generator using HTML/CSS/JS & DOM  
-- 🔗 [**pyShort**](https://github.com/WiiZARDD/pyShort) – Command‑line based URL shortener 
-- 🔗 [**JavaScriptBasics**](https://github.com/WiiZARDD/JavaScriptBasics) – JS fundamentals projects including a CLI name generator & DOM examples  
-
+- 🔗 [**UberEats Clone**](https://github.com/WiiZARDD/Uber-Eats-Clone) – UberEats Login Page with pure HTML, CSS & JS 
+- 🔗 [**𝕏 Clone**](https://github.com/WiiZARDD/X-clone) – 𝕏 Login page clone using pure HTML & CSS
+- 🔗 [**FakeNameGenerator**](https://github.com/WiiZARDD/FakeNameGenerator) – Fake Name Generator with HTML, CSS, JS & NameFake API
 ---
 
 ## GitHub Stats
@@ -65,29 +40,40 @@
 
 ---
 
-## What i'm learning:
-- Front-end development: HTML, CSS & JS implementation  
-- UI libraries & frameworks: Bootstrap
-- Advanced JS: React
-- Back-end basics: Node.js & Express with SQL integration
+## What I'm Learning
+
+- **Front-End Development**  
+  Building responsive websites using semantic HTML5, modern CSS (Flexbox, Grid), and interactive JavaScript for dynamic user experiences.
+
+- **UI Libraries & Frameworks**  
+  Exploring component-based design using **Bootstrap** and preparing to integrate **Tailwind CSS** for more custom styling.
+
+- **JavaScript & Frameworks**  
+  Strengthening core JavaScript skills and diving into **React** for building reusable UI components and managing state.
+
+- **Back-End Development**  
+  Learning **Node.js** and **Express** to build server-side applications, with a focus on **SQL** integration for data storage and retrieval.
+
 
 ---
 
 ## 🖥️ Code Stack
+
 | Technology | Level          | Icon |
 |:-----------|:--------------:|:----:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" /> | 🟢 Pro          | HTML5 |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" />   | 🟡 Intermediate | CSS3 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" /> | 🟢 Advanced     | HTML5 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" /> | 🟢 Advanced     | CSS3 |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" /> | 🟡 Intermediate | JavaScript |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" />   | 🔴 Learning     | React |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" />     | 🔴 Learning     | Node.js/Express |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" />   | 🔴 Learning     | MongoDB/SQL |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" /> | 🔴 Learning     | React |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" /> | 🔴 Learning     | Node.js / Express |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" /> | 🔴 Learning     | MongoDB / SQL |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" /> | 🔴 Learning     | Tailwind CSS |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30" /> | 🔴 Learning     | Bootstrap |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" /> | 🔴 Learning     | C++ |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" />   | 🔴 Learning     | C# |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" />   | 🔴 Learning     | Python |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" />      | 🔴 Learning     | PHP |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="30" />       | 🔴 Learning     | Lua |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="30" />     | 🔴 Learning     | Ruby |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30" /> | 🟡 Intermediate | Bootstrap |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" /> | 🟡 Intermediate | Python |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" /> | 🔴 Exploring     | C++ |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" /> | 🔴 Exploring     | C# |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" /> | 🔴 Exploring     | PHP |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="30" /> | 🔴 Exploring     | Lua |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="30" /> | 🔴 Exploring     | Ruby |
+
 <!-- Proudly created with ❤️ by WiiZARDD -->
