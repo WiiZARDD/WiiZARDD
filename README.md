@@ -25,7 +25,7 @@
 
 ## Recent Projects
 
-- 🔗 [**UberEats Clone**](https://github.com/WiiZARDD/Uber-Eats-Clone) – UberEats Login Page with pure HTML, CSS & JS 
+- 🔗 [**Discord Central**](https://github.com/WiiZARDD/DiscordCentral) – Discord Server List platform
 - 🔗 [**𝕏 Clone**](https://github.com/WiiZARDD/X-clone) – 𝕏 Login page clone using pure HTML & CSS
 - 🔗 [**FakeNameGenerator**](https://github.com/WiiZARDD/FakeNameGenerator) – Fake Name Generator with HTML, CSS, JS & NameFake API
 ---
