@@ -18,6 +18,7 @@
   </a>
 </p>
 -->
+
 <p align="center">
   <a href="https://discordcentral.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/DiscordCentral.com-5865F2?style=for-the-badge&logo=data:image/png;base64,iVBORw0K..." alt="DiscordCentral.com"/>
@@ -32,9 +33,6 @@
   <a href="https://github.com/WiiZARDD"><img src="https://komarev.com/ghpvc/?username=WiiZARDD&color=blue" alt="Profile Views" /></a>
   <a href="https://github.com/WiiZARDD?tab=followers"><img src="https://img.shields.io/github/followers/WiiZARDD?label=Followers&style=social" alt="Followers" /></a>
 </p>
-
-
-
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=WiiZARDD&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
