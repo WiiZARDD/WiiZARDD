@@ -36,7 +36,7 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=WiiZARDD&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center" style="text-decoration:none;">
+<p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -55,7 +55,10 @@
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/></a>
   <a href="https://netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/></a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" alt="supabase" width="40" height="40"/></a>
+  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://logo.svgcdn.com/l/claude-icon-8x.png" alt="" width="40" height="40"/></a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/j205VrT.png" alt="" width="40" height="40"/></a>
 </p>
+
 
 ---
 
