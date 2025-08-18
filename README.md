@@ -33,8 +33,15 @@
   <a href="https://github.com/WiiZARDD"><img src="https://komarev.com/ghpvc/?username=WiiZARDD&color=blue" alt="Profile Views" /></a>
   <a href="https://github.com/WiiZARDD?tab=followers"><img src="https://img.shields.io/github/followers/WiiZARDD?label=Followers&style=social" alt="Followers" /></a>
 </p>
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox" target="_blank" rel="noreferrer">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=WiiZARDD&data=followers,repositories,stars,commits&theme=darkmode"
+         alt="GitHub WidgetBox profile for WiiZARDD">
+  </a>
+</p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=WiiZARDD&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WiiZARDD&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
