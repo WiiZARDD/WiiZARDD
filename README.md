@@ -1,104 +1,63 @@
-<p align="center">
-  <img src="https://i.imgur.com/HFOg76Q.png" width="150" alt="Profile Picture" />
-</p>
-
-<!--
-<h1 align="center">WiiZARDD</h1>
-<p align="center">
-  I am a creative builder and self taught developer passionate about bringing ideas to life through code.<br>
-  I specialize in HTML, CSS, and JavaScript, and I'm expanding into Full Stack Development with tools like Node.js, React, and SQL.<br>
-  My journey spans web design, scripting, automation, and digital projects that push boundaries.
-</p>
--->
 
 <!--
 <p align="center">
-  <a href="https://discordcentral.com" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/XY9a1aY.png" width="64" alt="">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Building+Joker+Obfuscator;Execution-level+thinking;Shipping+real+systems" />
 </p>
 -->
 
 <p align="center">
-  <a href="https://discordcentral.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/DiscordCentral.com-5865F2?style=for-the-badge&logo=data:image/png;base64,iVBORw0K..." alt="DiscordCentral.com"/>
+  <img src="https://i.imgur.com/HFOg76Q.png" width="140" alt="Joker Obfuscator" />
+</p>
+
+<h1 align="center">/WiiZARDD</h1>
+
+<p align="center">
+  <a href="https://jokerobfuscator.com">
+    <img src="https://img.shields.io/badge/Website-jokerobfuscator.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-</p>
-<p align="center" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" alt="">
-  <img src="https://img.shields.io/badge/Tailwind-0EA5E9?logo=tailwindcss&logoColor=white&style=flat-square" alt="">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square" alt="">
-</p>
-<p align="center">
-  <a href="https://github.com/WiiZARDD"><img src="https://komarev.com/ghpvc/?username=WiiZARDD&color=blue" alt="Profile Views" /></a>
-  <a href="https://github.com/WiiZARDD?tab=followers"><img src="https://img.shields.io/github/followers/WiiZARDD?label=Followers&style=social" alt="Followers" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Jurredr/github-widgetbox" target="_blank" rel="noreferrer">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=WiiZARDD&data=followers,repositories,stars,commits&theme=darkmode"
-         alt="GitHub WidgetBox profile for WiiZARDD">
+  <a href="https://discord.gg/jokerobfuscator">
+    <img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=WiiZARDD&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/></a>
-  <a href="https://netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" alt="supabase" width="40" height="40"/></a>
-  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://logo.svgcdn.com/l/claude-icon-8x.png" alt="" width="40" height="40"/></a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/j205VrT.png" alt="" width="40" height="40"/></a>
-</p>
-
-
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
-
-<!--
-## GitHub Stats
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiiZARDD&layout=compact&theme=radical" alt="Top Languages" />
-</p>
--->
-
-<!--
-
-<p align="center">
-  <a href="https://discordcentral.com" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/XY9a1aY.png" width="64" alt="">
+  <a href="https://github.com/WiiZARDD?tab=followers">
+    <img src="https://img.shields.io/github/followers/WiiZARDD?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://discordcentral.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/DiscordCentral.com-5865F2?style=for-the-badge&logo=data:image/png;base64,iVBORw0K..." alt="DiscordCentral.com"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=lua,js,python,nodejs,react,tailwind,supabase,postgres,git,github,linux,docker&theme=dark" />
 </p>
 
+---
 
+```text
+ 8888 .d88b. 8  dP 8888 888b.    .d88b. 888b. 8888 8    8 .d88b. .d88b    db    88888 .d88b. 888b. 
+   8  8P  Y8 8wdP  8www 8  .8    8P  Y8 8wwwP 8www 8    8 YPwww. 8P      dPYb     8   8P  Y8 8  .8 
+w  8  8b  d8 88Yb  8    8wwK'    8b  d8 8   b 8    8b..d8     d8 8b     dPwwYb    8   8b  d8 8wwK'     discord.gg/JokerObfusctor
+`Yw"  `Y88P' 8  Yb 8888 8  Yb    `Y88P' 888P' 8    `Y88P' `Y88P' `Y88P dP    Yb   8   `Y88P' 8  Yb
+```
 
-<p align="center" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" alt="">
-  <img src="https://img.shields.io/badge/Tailwind-0EA5E9?logo=tailwindcss&logoColor=white&style=flat-square" alt="">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square" alt="">
-</p>
--->
+---
+
+<table align="center">
+  <tr>
+    <td width="520" valign="top">
+      <h3>🃏 Joker Obfuscator</h3>
+      <p>
+        A project focused on advanced code protection and a clean product experience.
+        Built for developers who want something stronger, sharper, and more serious than surface level scrambling.
+      </p>
+      <p>
+        <a href="https://jokerobfuscator.com">Website</a> •
+        <a href="https://discord.gg/jokerobfuscator">Discord</a>
+      </p>
+    </td>
+    <td valign="center">
+      <img src="https://i.imgur.com/YAIDSJQ.png" width="110" alt="Joker mark" />
+    </td>
+  </tr>
+</table>
+
+---
 
 
 ```mermaid
