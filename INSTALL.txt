@@ -1,0 +1,18 @@
+INSTALL
+=======
+
+1. Put README.md in the root of your GitHub profile repository.
+   For this account, the repository should be named: WiiZARDD
+
+2. Copy the assets folder into the same repository.
+
+Expected layout:
+
+WiiZARDD/
+├── README.md
+└── assets/
+    └── joker-console.svg
+
+3. Commit and push both files.
+
+The README intentionally uses your existing hosted Joker logo/mark plus a local SVG hero.

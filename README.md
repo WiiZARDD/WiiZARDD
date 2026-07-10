@@ -1,142 +1,176 @@
-
 <!--
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Building+Joker+Obfuscator;Execution-level+thinking;Shipping+real+systems" />
-</p>
+  WiiZARDD // GitHub Profile Interface
+  Built as a product surface, not a résumé.
 -->
 
-<p align="center">
-  <img src="https://i.imgur.com/HFOg76Q.png" width="140" alt="Joker Obfuscator" />
-</p>
-
-<h1 align="center">/WiiZARDD</h1>
-
-<p align="center">
+<div align="center">
   <a href="https://jokerobfuscator.com">
-    <img src="https://img.shields.io/badge/Website-jokerobfuscator.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://i.imgur.com/HFOg76Q.png" width="104" alt="Joker Obfuscator logo" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/joker-console.svg" width="100%" alt="WiiZARDD — builder, operator, and creator of Joker Obfuscator" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://jokerobfuscator.com">
+    <img src="https://img.shields.io/badge/ENTER-JOKEROBFUSCATOR.COM-A3FF12?style=for-the-badge&labelColor=09090B&color=A3FF12" alt="Visit Joker Obfuscator" />
   </a>
   <a href="https://discord.gg/jokerobfuscator">
-    <img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/CONNECT-DISCORD-7C3AED?style=for-the-badge&logo=discord&logoColor=white&labelColor=09090B" alt="Join the Joker Obfuscator Discord" />
   </a>
   <a href="https://github.com/WiiZARDD?tab=followers">
-    <img src="https://img.shields.io/github/followers/WiiZARDD?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/WiiZARDD?style=for-the-badge&logo=github&logoColor=white&label=NETWORK&labelColor=09090B&color=242429" alt="Follow WiiZARDD on GitHub" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,python,nodejs,react,tailwind,supabase,postgres,git,github,linux,docker&theme=dark" />
-</p>
+<br />
 
----
+> **I build developer products where code protection, product quality, and execution meet.** The current primary system is **Joker Obfuscator**—advanced code protection wrapped in a clean, serious developer experience.
 
-```text
- 8888 .d88b. 8  dP 8888 888b.    .d88b. 888b. 8888 8    8 .d88b. .d88b    db    88888 .d88b. 888b. 
-   8  8P  Y8 8wdP  8www 8  .8    8P  Y8 8wwwP 8www 8    8 YPwww. 8P      dPYb     8   8P  Y8 8  .8 
-w  8  8b  d8 88Yb  8    8wwK'    8b  d8 8   b 8    8b..d8     d8 8b     dPwwYb    8   8b  d8 8wwK'     discord.gg/JokerObfusctor
-`Yw"  `Y88P' 8  Yb 8888 8  Yb    `Y88P' 888P' 8    `Y88P' `Y88P' `Y88P dP    Yb   8   `Y88P' 8  Yb
-```
+<br />
 
----
-
-<table align="center">
+<table>
   <tr>
-    <td width="520" valign="top">
+    <td width="61%" valign="top">
+      <h2>01 // PRIMARY SYSTEM</h2>
       <h3>🃏 Joker Obfuscator</h3>
       <p>
-        A project focused on advanced code protection and a clean product experience.
-        Built for developers who want something stronger, sharper, and more serious than surface level scrambling.
+        A code-protection product built for developers who need more than cosmetic scrambling.
+        The objective is straightforward: make protection stronger without turning the product into a hostile black box.
       </p>
+      <br />
       <p>
-        <a href="https://jokerobfuscator.com">Website</a> •
-        <a href="https://discord.gg/jokerobfuscator">Discord</a>
+        <code>INPUT</code> &nbsp;→&nbsp;
+        <code>TRANSFORM</code> &nbsp;→&nbsp;
+        <code>HARDEN</code> &nbsp;→&nbsp;
+        <code>SHIP</code>
       </p>
+      <br />
+      <a href="https://jokerobfuscator.com"><b>Launch website ↗</b></a>
+      &nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="https://discord.gg/jokerobfuscator"><b>Enter community ↗</b></a>
     </td>
-    <td valign="center">
-      <img src="https://i.imgur.com/YAIDSJQ.png" width="110" alt="Joker mark" />
+    <td width="39%" valign="top">
+      <h2>02 // OPERATOR STATE</h2>
+      <pre><code>MODE       execution
+FOCUS      code protection
+BIAS       shipping
+STANDARD   production
+LOOP       build → test → harden
+STATUS     active</code></pre>
+      <p>
+        I care about systems that survive contact with users—not demos that only look finished.
+      </p>
     </td>
   </tr>
 </table>
 
----
+<br />
 
+<h2 align="center">03 // BUILD SURFACE</h2>
 
-```mermaid
-mindmap
-  root((Code Stack))
-    Frontend
-      HTML5
-      CSS3
-      JavaScript
-      React
-      Tailwind
-      Bootstrap
-    Backend & APIs
-      Node.js / Express
-      Supabase
-      Python
-      PHP
-    Databases
-      PostgreSQL (via Supabase)
-      MongoDB
-      SQL (General)
-    Tools & Deployment
-      Git / GitHub
-      Linux
-      Docker
-      Vercel
-      Netlify
-    Other Languages
-      C++
-      C#
-      Lua
-      Ruby
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,python,nodejs,react,tailwind,supabase,postgres,git,github,linux,docker&theme=dark" alt="Primary technology stack" />
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <sub>PRODUCT</sub><br /><br />
+      <b>React</b><br />
+      <b>Tailwind</b><br />
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="20%">
+      <sub>SERVICES</sub><br /><br />
+      <b>Node.js</b><br />
+      <b>Express</b><br />
+      <b>Python</b>
+    </td>
+    <td align="center" width="20%">
+      <sub>DATA</sub><br /><br />
+      <b>Supabase</b><br />
+      <b>PostgreSQL</b><br />
+      <b>MongoDB</b>
+    </td>
+    <td align="center" width="20%">
+      <sub>RUNTIME</sub><br /><br />
+      <b>Lua</b><br />
+      <b>C++ / C#</b><br />
+      <b>PHP / Ruby</b>
+    </td>
+    <td align="center" width="20%">
+      <sub>DELIVERY</sub><br /><br />
+      <b>GitHub</b><br />
+      <b>Linux</b><br />
+      <b>Docker</b>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<details open>
+  <summary><b>04 // SYSTEM MAP</b></summary>
+  <br />
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  PRODUCT LAYER     React · Tailwind · JavaScript · HTML · CSS       │
+├──────────────────────────────────────────────────────────────────────┤
+│  SERVICE LAYER     Node.js · Express · Python · PHP · Supabase      │
+├──────────────────────────────────────────────────────────────────────┤
+│  DATA LAYER        PostgreSQL · SQL · MongoDB                       │
+├──────────────────────────────────────────────────────────────────────┤
+│  RUNTIME LAYER     Lua · C++ · C# · Ruby                            │
+├──────────────────────────────────────────────────────────────────────┤
+│  DELIVERY LAYER    Git · GitHub · Linux · Docker · Vercel · Netlify│
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-<!--
-## 🖥️ Code Stack
+</details>
 
-### 🌐 Frontend
-| Technology | Level | Icon |
-|------------|:-----:|:----:|
-| HTML5      | 🟢 Advanced     | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> |
-| CSS3       | 🟢 Advanced     | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> |
-| JavaScript | 🟡 Intermediate | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> |
-| React      | 🟡 Intermediate | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> |
-| Tailwind   | 🟡 Intermediate | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> |
-| Bootstrap  | 🟡 Intermediate | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/> |
+<br />
 
-### ⚙️ Backend & APIs
-| Technology | Level | Icon |
-|------------|:-----:|:----:|
-| Node.js / Express | 🔴 Learning | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> |
-| Supabase    | 🟡 Intermediate | <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" width="40"/> |
-| Python      | 🟡 Intermediate | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> |
-| PHP         | 🔴 Exploring    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>05 // BUILD RULES</h2>
+      <p><b>01.</b> Build the real system, not the presentation of one.</p>
+      <p><b>02.</b> Keep the interface clean and the internals deliberate.</p>
+      <p><b>03.</b> Prefer leverage, observability, and repeatable execution.</p>
+      <p><b>04.</b> Ship, measure, harden, repeat.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h2>06 // OPEN CHANNEL</h2>
+      <p>
+        Building something serious, working on developer infrastructure, or operating near code protection?
+      </p>
+      <p>
+        <a href="https://discord.gg/jokerobfuscator"><b>Discord</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://jokerobfuscator.com"><b>Website</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/WiiZARDD"><b>GitHub</b></a>
+      </p>
+      <br />
+      <code>signal accepted // noise rejected</code>
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Databases
-| Technology | Level | Icon |
-|------------|:-----:|:----:|
-| PostgreSQL (via Supabase) | 🟡 Intermediate | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> |
-| MongoDB    | 🔴 Learning | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> |
-| SQL (General) | 🟡 Intermediate | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> |
+<br />
 
-### 🛠️ Tools & Deployment
-| Tool / Platform | Level | Icon |
-|-----------------|:-----:|:----:|
-| Git / GitHub    | 🟢 Advanced     | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> |
-| Linux           | 🟡 Intermediate | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> |
-| Docker          | 🔴 Exploring    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> |
-| Vercel          | 🟡 Intermediate | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40"/> |
-| Netlify         | 🟡 Intermediate | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40"/> |
-
-### 🔧 Other Languages
-| Technology | Level | Icon |
-|------------|:-----:|:----:|
-| C++   | 🔴 Exploring | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> |
-| C#    | 🔴 Exploring | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> |
-| Lua   | 🔴 Exploring | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40"/> |
-| Ruby  | 🔴 Exploring | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40"/> |
-
--->
-
-<!-- Proudly created with ❤️ by WiiZARDD -->
+<div align="center">
+  <img src="https://i.imgur.com/YAIDSJQ.png" width="76" alt="Joker mark" />
+  <br /><br />
+  <sub><code>WiiZARDD // JOKER OBFUSCATOR // BUILD 01</code></sub>
+</div>
