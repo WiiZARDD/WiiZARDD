@@ -20,9 +20,6 @@
   <a href="https://discord.gg/jokerobfuscator">
     <img src="https://img.shields.io/badge/CONNECT-DISCORD-7C3AED?style=for-the-badge&logo=discord&logoColor=white&labelColor=09090B" alt="Join the Joker Obfuscator Discord" />
   </a>
-  <a href="https://github.com/WiiZARDD?tab=followers">
-    <img src="https://img.shields.io/github/followers/WiiZARDD?style=for-the-badge&logo=github&logoColor=white&label=NETWORK&labelColor=09090B&color=242429" alt="Follow WiiZARDD on GitHub" />
-  </a>
 </div>
 
 <br />
